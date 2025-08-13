@@ -19,7 +19,7 @@ export default function Navbar() {
           <a href="#home" className="hover:bg-yellow-400 px-3 py-1 rounded transition-colors duration-300 font-semibold">Home</a>
           <a href="#about" className="hover:bg-yellow-400 px-3 py-1 rounded transition-colors duration-300 font-semibold">About</a>
           <a href="#wish" className="hover:bg-yellow-400 px-3 py-1 rounded transition-colors duration-300 font-semibold">Wishes</a>
-          <a href="#heroes" className="hover:bg-yellow-400 px-3 py-1 rounded transition-colors duration-300 font-semibold">Heroes</a>
+          <a href="#heros" className="hover:bg-yellow-400 px-3 py-1 rounded transition-colors duration-300 font-semibold">Heroes</a>
         </div>
 
         {/* Hamburger Button */}
