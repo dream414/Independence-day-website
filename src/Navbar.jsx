@@ -36,7 +36,7 @@ export default function Navbar() {
         <div className="flex flex-col items-center space-y-4 bg-green-800 py-4 md:hidden transition-all duration-300">
           <a href="#home" className="block text-white hover:bg-green-400 w-full text-center py-2 rounded transition-colors duration-300">Home</a>
           <a href="#about" className="block text-white hover:bg-green-400 w-full text-center py-2 rounded transition-colors duration-300">About</a>
-          <a href="#heroes" className="block text-white hover:bg-green-400 w-full text-center py-2 rounded transition-colors duration-300">Heroes</a>
+          <a href="#heros" className="block text-white hover:bg-green-400 w-full text-center py-2 rounded transition-colors duration-300">Heroes</a>
           <a href="#wish" className="block text-white hover:bg-green-400 w-full text-center py-2 rounded transition-colors duration-300">Wishes</a>
         </div>
       )}
